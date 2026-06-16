@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 顶部大波浪 Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dali&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=30&desc=%E7%94%B5%E5%95%86%20%7C%20AI%20Agent%20%7C%20Docker%20%7C%20ComfyUI%20%7C%20%E8%87%AA%E5%8A%A8%E5%8C%96&descSize=18&descColor=bc8cff&descAlignY=55" width="100%"/>
+<!-- 顶部自定义 Banner -->
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/banner.png" width="100%" alt="LIU DALI - AI × E-commerce × Automation" />
 
 <br/>
 
