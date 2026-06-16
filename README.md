@@ -44,25 +44,6 @@
 
 <div align="center">
 
-### 📊 活跃度概览
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=liudali333&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&ring_color=58A6FF&line_height=28&locale=cn" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liudali333&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&hide_progress=false&locale=cn" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=liudali333&theme=radical&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=E03978&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=BC8CFF&dates=C9D1D9" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=liudali333&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 🐍 贡献贪吃蛇
 
 <img src="https://raw.githubusercontent.com/liudali333/liudali333/output/github-snake-dark.svg" alt="snake" />
