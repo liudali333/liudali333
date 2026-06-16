@@ -77,7 +77,21 @@
 
 ### 📫 联系我
 
-<a href="mailto:liudali333@gmail.com"><img src="https://img.shields.io/badge/liudali333%40gmail.com-58A6FF?style=flat-square&logo=gmail&logoColor=58A6FF&labelColor=161B22&color=0D1117" /></a>
+<table align="center">
+<tr>
+<td align="center">
+<a href="mailto:liudali333@gmail.com">
+<img src="https://img.shields.io/badge/liudali333%40gmail.com-58A6FF?style=flat-square&logo=gmail&logoColor=58A6FF&labelColor=161B22&color=0D1117" />
+</a>
+</td>
+<td align="center" width="20"></td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/wechat-qr.png" width="120" alt="微信二维码" />
+<br/>
+<sub>扫码添加微信</sub>
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
