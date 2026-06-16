@@ -60,38 +60,24 @@
 
 ### 🛠️ 工具箱
 
-<img src="https://skillicons.dev/icons?i=docker,python,nodejs,linux,nginx,git,bash,githubactions,visualstudiocode&theme=dark&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=161B22" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=161B22" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/飞牛NAS-FF6A00?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Hermes-8B5CF6?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/OpenClaw-58A6FF?style=flat-square&labelColor=161B22" />
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white&labelColor=161B22" />
-<img src="https://img.shields.io/badge/Dify-2354FF?style=flat-square&logo=dify&logoColor=white&labelColor=161B22" />
 <img src="https://img.shields.io/badge/ComfyUI-E03978?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white&labelColor=161B22" />
-<img src="https://img.shields.io/badge/群晖NAS-FE5A00?style=flat-square&logo=synology&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/llama.cpp-FF6B35?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/宝塔-20A53E?style=flat-square&labelColor=161B22" />
 
 <br/><br/>
 
 ### 📫 联系我
 
-<table align="center">
-<tr>
-<td align="center">
-<a href="mailto:liudali333@gmail.com">
-<img src="https://img.shields.io/badge/liudali333%40gmail.com-58A6FF?style=flat-square&logo=gmail&logoColor=58A6FF&labelColor=161B22&color=0D1117" />
-</a>
-</td>
-<td align="center" width="20"></td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/wechat-qr.png" width="120" alt="微信二维码" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/wechat-qr.png" width="140" alt="微信二维码" />
 <br/>
 <sub>扫码添加微信</sub>
-</td>
-</tr>
-</table>
+</div>
 
 <br/><br/>
 
