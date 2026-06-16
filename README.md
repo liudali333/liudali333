@@ -46,11 +46,19 @@
 
 ### 🐍 贡献贪吃蛇
 
-<img src="https://raw.githubusercontent.com/liudali333/liudali333/output/github-snake-dark.svg" alt="snake" />
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/output/github-snake-dark.svg" width="100%" alt="snake" style="filter: drop-shadow(0 0 10px #58A6FF44);" />
+
+<br/>
+
+<sub>🎮 基于真实贡献数据生成的贪吃蛇动画</sub>
+
+</div>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=liudali333&color=58A6FF&style=flat-square&label=访问量" />
+<img src="https://komarev.com/ghpvc/?username=liudali333&color=58A6FF&style=for-the-badge&label=👁️+访问量" />
 
 </div>
 
