@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 顶部自定义 Banner -->
-<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/banner.png" width="100%" alt="LIU DALI - AI × E-commerce × Automation" />
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/banner.png?v=2" width="100%" alt="LIU DALI - AI × E-commerce × Automation" />
 
 <br/>
 
