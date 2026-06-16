@@ -60,14 +60,18 @@
 
 ### 🛠️ 工具箱
 
-<img src="https://img.shields.io/badge/飞牛NAS-FF6A00?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white&labelColor=161B22" />
-<img src="https://img.shields.io/badge/Hermes-8B5CF6?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/OpenClaw-58A6FF?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white&labelColor=161B22" />
-<img src="https://img.shields.io/badge/ComfyUI-E03978?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/llama.cpp-FF6B35?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/宝塔-20A53E?style=flat-square&labelColor=161B22" />
+<br/>
+
+<img src="https://img.shields.io/badge/🐮_飞牛NAS-FF6A00?style=for-the-badge&labelColor=161B22" />
+<img src="https://img.shields.io/badge/⌨️_Codex-000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/🧠_Hermes-8B5CF6?style=for-the-badge&labelColor=161B22" />
+<img src="https://img.shields.io/badge/🐾_OpenClaw-58A6FF?style=for-the-badge&labelColor=161B22" />
+<img src="https://img.shields.io/badge/🔀_n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/🎨_ComfyUI-E03978?style=for-the-badge&labelColor=161B22" />
+<img src="https://img.shields.io/badge/🦙_llama.cpp-FF6B35?style=for-the-badge&labelColor=161B22" />
+<img src="https://img.shields.io/badge/🛡️_宝塔面板-20A53E?style=for-the-badge&labelColor=161B22" />
+
+<br/>
 
 <br/><br/>
 
