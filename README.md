@@ -36,18 +36,18 @@
 
 **AI 与工作流**
 
-![Codex](https://img.shields.io/badge/Codex-181717?style=flat-square)
-![Hermes](https://img.shields.io/badge/Hermes-8B5CF6?style=flat-square)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-1F6FEB?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-E03978?style=flat-square)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-FF6B35?style=flat-square)
+<img src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F%20Codex-181717?style=for-the-badge&amp;labelColor=161B22" alt="⌨️ Codex" />
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Hermes-8B5CF6?style=for-the-badge&amp;labelColor=161B22" alt="🧠 Hermes" />
+<img src="https://img.shields.io/badge/%F0%9F%90%BE%20OpenClaw-58A6FF?style=for-the-badge&amp;labelColor=161B22" alt="🐾 OpenClaw" />
+<img src="https://img.shields.io/badge/%F0%9F%94%80%20n8n-FF6D5A?style=for-the-badge&amp;logo=n8n&amp;logoColor=white&amp;labelColor=161B22" alt="🔀 n8n" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%A8%20ComfyUI-E03978?style=for-the-badge&amp;labelColor=161B22" alt="🎨 ComfyUI" />
+<img src="https://img.shields.io/badge/%F0%9F%A6%99%20llama.cpp-FF6B35?style=for-the-badge&amp;labelColor=161B22" alt="🦙 llama.cpp" />
 
 **部署与基础设施**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![飞牛 NAS](https://img.shields.io/badge/飞牛_NAS-FF6A00?style=flat-square)
-![宝塔面板](https://img.shields.io/badge/宝塔面板-20A53E?style=flat-square)
+<img src="https://img.shields.io/badge/%F0%9F%90%B3%20Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;labelColor=161B22" alt="🐳 Docker" />
+<img src="https://img.shields.io/badge/%F0%9F%90%AE%20%E9%A3%9E%E7%89%9B%20NAS-FF6A00?style=for-the-badge&amp;labelColor=161B22" alt="🐮 飞牛 NAS" />
+<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF-20A53E?style=for-the-badge&amp;labelColor=161B22" alt="🛡️ 宝塔面板" />
 
 ## 贡献足迹
 
