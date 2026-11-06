@@ -8,7 +8,7 @@
 
 电商运营 · AI Agent · 工作流自动化 · 自托管基础设施
 
-[ABOUT](#01--about--关于我) &nbsp; / &nbsp; [EXPLORE](#02--explore--探索方向) &nbsp; / &nbsp; [STACK](#03--stack--工具箱) &nbsp; / &nbsp; [CONNECT](#05--connect--联系我)
+[ABOUT](#01--about--关于我) &nbsp; / &nbsp; [EXPLORE](#02--explore--探索方向) &nbsp; / &nbsp; [STACK](#03--stack--工具箱) &nbsp; / &nbsp; [SOCIAL](#04--social--内容与社交) &nbsp; / &nbsp; [CONNECT](#06--connect--联系我)
 
 </div>
 
@@ -36,13 +36,37 @@
 
 <img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/toolkit-animated.svg" width="100%" alt="工具箱：Codex、Hermes、OpenClaw、llama.cpp、n8n、ComfyUI、Docker、飞牛 NAS、宝塔面板" />
 
-## 04 / ACTIVITY · 贡献足迹
+## 04 / SOCIAL · 内容与社交
+
+### Daly未下线
+
+全网统一名称 · AI、电商与自动化的探索与实践
+
+<a href="https://www.xiaohongshu.com/user/profile/59ac21bf50c4b47638dbdf90"><img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/social-xiaohongshu.svg" width="150" alt="小红书 · Daly未下线" /></a>
+<a href="https://space.bilibili.com/416549385"><img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/social-bilibili.svg" width="150" alt="哔哩哔哩 · Daly未下线" /></a>
+<a href="https://www.douyin.com/user/MS4wLjABAAAAx7DJJ9x7QMpfHG3-Ph7PHJiN0wdvpeJP4qYG6ZhN-IA"><img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/social-douyin.svg" width="150" alt="抖音 · Daly未下线" /></a>
+<a href="https://www.kuaishou.com/profile/3xd9s8ym78yqsv6?source=NewReco"><img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/social-kuaishou.svg" width="150" alt="快手 · Daly未下线" /></a>
+<a href="https://x.com/liudali365"><img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/social-x.svg" width="150" alt="X · Daly未下线" /></a>
+<a href="https://www.facebook.com/profile.php?id=61591552809467"><img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/social-facebook.svg" width="150" alt="Facebook · Daly未下线" /></a>
+
+<details>
+<summary>视频号 · Daly未下线 / 点击展开二维码</summary>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/channels-qr.png" width="240" alt="Daly未下线的视频号二维码，使用微信扫码关注" />
+<br/>
+<sub>微信扫码，关注视频号「Daly未下线」</sub>
+</p>
+
+</details>
+
+## 05 / ACTIVITY · 贡献足迹
 
 <img src="https://raw.githubusercontent.com/liudali333/liudali333/main/profile-3d-contrib/profile-night-green-loop.svg" width="100%" alt="Liu Dali 的等距 3D 贡献城市，建筑高度对应每日贡献记录" />
 
 <sub>每一天的积累，构成一座城市。每日自动更新。</sub>
 
-## 05 / CONNECT · 联系我
+## 06 / CONNECT · 联系我
 
 欢迎交流 **电商自动化、AI Agent、ComfyUI 与 NAS 部署**。
 
