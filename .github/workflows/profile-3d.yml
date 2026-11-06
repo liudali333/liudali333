@@ -21,6 +21,20 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Create looping city animation
+        run: |
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+          source = Path("profile-3d-contrib/profile-night-green.svg")
+          def loop(match):
+              tag = match.group(0).replace('repeatCount="1"', 'repeatCount="indefinite"').replace('dur="3s"', 'dur="8s"')
+              return re.sub(r'values="([^"]+)"', lambda m: 'values="' + m[1] + ';' + m[1].split(';')[0] + '"', tag)
+          result = re.sub(r'<animate(?:Transform)?\b[^>]*>', loop, source.read_text())
+          import xml.etree.ElementTree as ET
+          ET.fromstring(result)
+          source.with_name("profile-night-green-loop.svg").write_text(result)
+          PY
       - name: Publish city
         run: |
           git config user.name "github-actions[bot]"
