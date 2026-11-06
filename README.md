@@ -34,11 +34,11 @@
 
 ## 03 / STACK · 工具箱
 
-<img src="https://raw.githubusercontent.com/liudali333/liudali333/8e64025e300e8ed10a634ac37cef5999a5b5ab88/images/toolkit-v2.svg" width="100%" alt="工具箱：Codex、Hermes、OpenClaw、llama.cpp、n8n、ComfyUI、Docker、飞牛 NAS、宝塔面板" />
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/toolkit-animated.svg" width="100%" alt="工具箱：Codex、Hermes、OpenClaw、llama.cpp、n8n、ComfyUI、Docker、飞牛 NAS、宝塔面板" />
 
 ## 04 / ACTIVITY · 贡献足迹
 
-<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="Liu Dali 的等距 3D 贡献城市，建筑高度对应每日贡献记录" />
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/profile-3d-contrib/profile-night-green-loop.svg" width="100%" alt="Liu Dali 的等距 3D 贡献城市，建筑高度对应每日贡献记录" />
 
 <sub>每一天的积累，构成一座城市。每日自动更新。</sub>
 
