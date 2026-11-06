@@ -42,12 +42,12 @@
 
 全网统一名称 · AI、电商与自动化的探索与实践
 
-<a href="https://www.xiaohongshu.com/user/profile/59ac21bf50c4b47638dbdf90"><img src="https://raw.githubusercontent.com/liudali333/liudali333/dac41ce0ca8ab4df356d0b96ca33b7cfb48447e7/images/social-xiaohongshu.svg" width="150" alt="小红书 · Daly未下线" /></a>
-<a href="https://space.bilibili.com/416549385"><img src="https://raw.githubusercontent.com/liudali333/liudali333/dac41ce0ca8ab4df356d0b96ca33b7cfb48447e7/images/social-bilibili.svg" width="150" alt="哔哩哔哩 · Daly未下线" /></a>
-<a href="https://www.douyin.com/user/MS4wLjABAAAAx7DJJ9x7QMpfHG3-Ph7PHJiN0wdvpeJP4qYG6ZhN-IA"><img src="https://raw.githubusercontent.com/liudali333/liudali333/dac41ce0ca8ab4df356d0b96ca33b7cfb48447e7/images/social-douyin.svg" width="150" alt="抖音 · Daly未下线" /></a>
-<a href="https://www.kuaishou.com/profile/3xd9s8ym78yqsv6?source=NewReco"><img src="https://raw.githubusercontent.com/liudali333/liudali333/dac41ce0ca8ab4df356d0b96ca33b7cfb48447e7/images/social-kuaishou.svg" width="150" alt="快手 · Daly未下线" /></a>
-<a href="https://x.com/liudali365"><img src="https://raw.githubusercontent.com/liudali333/liudali333/dac41ce0ca8ab4df356d0b96ca33b7cfb48447e7/images/social-x.svg" width="150" alt="X · Daly未下线" /></a>
-<a href="https://www.facebook.com/profile.php?id=61591552809467"><img src="https://raw.githubusercontent.com/liudali333/liudali333/dac41ce0ca8ab4df356d0b96ca33b7cfb48447e7/images/social-facebook.svg" width="150" alt="Facebook · Daly未下线" /></a>
+<a href="https://www.xiaohongshu.com/user/profile/59ac21bf50c4b47638dbdf90"><img src="https://raw.githubusercontent.com/liudali333/liudali333/7d90507006238bb17041e8d2dd9f3237022ca861/images/social-xiaohongshu.svg" width="150" alt="小红书 · Daly未下线" /></a>
+<a href="https://space.bilibili.com/416549385"><img src="https://raw.githubusercontent.com/liudali333/liudali333/7d90507006238bb17041e8d2dd9f3237022ca861/images/social-bilibili.svg" width="150" alt="哔哩哔哩 · Daly未下线" /></a>
+<a href="https://www.douyin.com/user/MS4wLjABAAAAx7DJJ9x7QMpfHG3-Ph7PHJiN0wdvpeJP4qYG6ZhN-IA"><img src="https://raw.githubusercontent.com/liudali333/liudali333/7d90507006238bb17041e8d2dd9f3237022ca861/images/social-douyin.svg" width="150" alt="抖音 · Daly未下线" /></a>
+<a href="https://www.kuaishou.com/profile/3xd9s8ym78yqsv6?source=NewReco"><img src="https://raw.githubusercontent.com/liudali333/liudali333/7d90507006238bb17041e8d2dd9f3237022ca861/images/social-kuaishou.svg" width="150" alt="快手 · Daly未下线" /></a>
+<a href="https://x.com/liudali365"><img src="https://raw.githubusercontent.com/liudali333/liudali333/7d90507006238bb17041e8d2dd9f3237022ca861/images/social-x.svg" width="150" alt="X · Daly未下线" /></a>
+<a href="https://www.facebook.com/profile.php?id=61591552809467"><img src="https://raw.githubusercontent.com/liudali333/liudali333/7d90507006238bb17041e8d2dd9f3237022ca861/images/social-facebook.svg" width="150" alt="Facebook · Daly未下线" /></a>
 
 <details>
 <summary>视频号 · Daly未下线 / 点击展开二维码</summary>
