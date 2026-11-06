@@ -34,7 +34,11 @@
 
 ## 03 / STACK · 工具箱
 
-<img src="./images/stack-editorial.svg" width="100%" alt="工具箱：AI 与模型 Codex、Hermes、OpenClaw、llama.cpp；工作流 n8n、ComfyUI；基础设施 Docker、飞牛 NAS、宝塔面板" />
+| 分类 | 工具 | 用途 |
+| :--- | :--- | :--- |
+| **01 · AGENTS & MODELS** | `Codex` · `Hermes` · `OpenClaw` · `llama.cpp` | AI 编排与本地推理 |
+| **02 · CREATIVE WORKFLOWS** | `n8n` · `ComfyUI` | 流程连接与图像生产 |
+| **03 · INFRASTRUCTURE** | `Docker` · `飞牛 NAS` · `宝塔面板` | 容器部署与自托管服务 |
 
 ## 04 / ACTIVITY · 贡献足迹
 
