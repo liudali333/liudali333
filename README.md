@@ -8,7 +8,7 @@
 
 电商运营 · AI Agent · 工作流自动化 · 自托管基础设施
 
-[ABOUT](#01--about--关于我) &nbsp; / &nbsp; [EXPLORE](#02--explore--探索方向) &nbsp; / &nbsp; [STACK](#03--stack--工具箱) &nbsp; / &nbsp; [SOCIAL](#04--social--内容与社交) &nbsp; / &nbsp; [CONNECT](#06--connect--联系我)
+[ABOUT](#01--about--关于我) &nbsp; / &nbsp; [EXPLORE](#02--explore--探索方向) &nbsp; / &nbsp; [STACK](#03--stack--工具箱) &nbsp; / &nbsp; [SOCIAL](#04--social--内容与社交) &nbsp; / &nbsp; [加我进群](#06--connect--加我进群)
 
 </div>
 
@@ -66,15 +66,17 @@
 
 <sub>每一天的积累，构成一座城市。每日自动更新。</sub>
 
-## 06 / CONNECT · 联系我
+## 06 / CONNECT · 加我进群
 
-欢迎交流 **电商自动化、AI Agent、ComfyUI 与 NAS 部署**。
+我建了一个 **AI 交流学习群**，欢迎一起交流 AI 工具、Agent、ComfyUI 与自动化实践。
+
+**扫码添加我的微信，备注「AI进群」，我拉你进群。** 相互学习，一起折腾。
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/wechat-qr.png" width="160" alt="Liu Dali 的微信联系二维码" />
 
-<sub>扫码添加微信 · 交流想法与实践</sub>
+<sub>扫码加我 · 备注「AI进群」</sub>
 
 <br/><br/>
 
