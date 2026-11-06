@@ -38,10 +38,9 @@
 
 ## 04 / ACTIVITY · 贡献足迹
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liudali333/liudali333/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/liudali333/liudali333/output/github-snake-dark.svg" width="100%" alt="GitHub 贡献记录贪吃蛇动画" />
-</picture>
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="Liu Dali 的等距 3D 贡献城市，建筑高度对应每日贡献记录" />
+
+<sub>每一天的积累，构成一座城市。每日自动更新。</sub>
 
 ## 05 / CONNECT · 联系我
 
