@@ -70,13 +70,13 @@
 
 我建了一个 **AI 交流学习群**，欢迎一起交流 AI 工具、Agent、ComfyUI 与自动化实践。
 
-**扫码添加我的微信，备注「AI进群」，我拉你进群。** 相互学习，一起折腾。
+**扫码添加我的微信，备注「github」，我拉你进群。** 相互学习，一起折腾。
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/wechat-qr.png" width="160" alt="Liu Dali 的微信联系二维码" />
 
-<sub>扫码加我 · 备注「AI进群」</sub>
+<sub>扫码加我 · 备注「github」</sub>
 
 <br/><br/>
 
