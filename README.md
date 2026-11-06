@@ -26,28 +26,15 @@
 
 | 方向 | 关注的具体问题 |
 | :--- | :--- |
-| **🛒 电商运营** | 运营流程自动化、数据整理与分析、智能选品 |
-| **🤖 AI Agent** | 多 Agent 协作、LLM 编排、工具调用与任务执行 |
-| **🎨 图像工作流** | ComfyUI 节点编排、批量出图与风格控制 |
-| **🐳 自托管部署** | Docker 容器、NAS 服务与 Homelab 工具链 |
-| **⚡ 效率工具** | 用脚本连接工具，减少重复操作与手动搬运 |
+| **电商运营** | 运营流程自动化、数据整理与分析、智能选品 |
+| **AI Agent** | 多 Agent 协作、LLM 编排、工具调用与任务执行 |
+| **图像工作流** | ComfyUI 节点编排、批量出图与风格控制 |
+| **自托管部署** | Docker 容器、NAS 服务与 Homelab 工具链 |
+| **效率工具** | 用脚本连接工具，减少重复操作与手动搬运 |
 
 ## 03 / STACK · 工具箱
 
-**AI 与工作流**
-
-<img src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F%20Codex-181717?style=for-the-badge&amp;labelColor=161B22" alt="⌨️ Codex" />
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Hermes-8B5CF6?style=for-the-badge&amp;labelColor=161B22" alt="🧠 Hermes" />
-<img src="https://img.shields.io/badge/%F0%9F%90%BE%20OpenClaw-58A6FF?style=for-the-badge&amp;labelColor=161B22" alt="🐾 OpenClaw" />
-<img src="https://img.shields.io/badge/%F0%9F%94%80%20n8n-FF6D5A?style=for-the-badge&amp;logo=n8n&amp;logoColor=white&amp;labelColor=161B22" alt="🔀 n8n" />
-<img src="https://img.shields.io/badge/%F0%9F%8E%A8%20ComfyUI-E03978?style=for-the-badge&amp;labelColor=161B22" alt="🎨 ComfyUI" />
-<img src="https://img.shields.io/badge/%F0%9F%A6%99%20llama.cpp-FF6B35?style=for-the-badge&amp;labelColor=161B22" alt="🦙 llama.cpp" />
-
-**部署与基础设施**
-
-<img src="https://img.shields.io/badge/%F0%9F%90%B3%20Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;labelColor=161B22" alt="🐳 Docker" />
-<img src="https://img.shields.io/badge/%F0%9F%90%AE%20%E9%A3%9E%E7%89%9B%20NAS-FF6A00?style=for-the-badge&amp;labelColor=161B22" alt="🐮 飞牛 NAS" />
-<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF-20A53E?style=for-the-badge&amp;labelColor=161B22" alt="🛡️ 宝塔面板" />
+<img src="./images/stack-editorial.svg" width="100%" alt="工具箱：AI 与模型 Codex、Hermes、OpenClaw、llama.cpp；工作流 n8n、ComfyUI；基础设施 Docker、飞牛 NAS、宝塔面板" />
 
 ## 04 / ACTIVITY · 贡献足迹
 
@@ -68,6 +55,6 @@
 
 <br/><br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=liudali333&color=1F6FEB&style=flat-square&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=liudali333&color=899b7d&style=flat-square&label=Profile+views)
 
 </div>
