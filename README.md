@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/banner.png?v=2" width="100%" alt="LIU DALI · AI × E-commerce × Automation" />
+<img src="./images/muse-tech-hero.svg" width="100%" alt="Liu Dali Personal Lab — Build smarter. Automate more." />
 
-# Hi, I'm Liu Dali 👋
+### AI × 电商 × 自动化
 
-**把 AI 接入业务，把重复工作交给自动化。**
+**从一个想法，到一套能运转的系统。**
 
 电商运营 · AI Agent · 工作流自动化 · 自托管基础设施
 
-[关于我](#关于我) · [探索方向](#探索方向) · [工具箱](#工具箱) · [联系我](#联系我)
+[ABOUT](#01--about--关于我) &nbsp; / &nbsp; [EXPLORE](#02--explore--探索方向) &nbsp; / &nbsp; [STACK](#03--stack--工具箱) &nbsp; / &nbsp; [CONNECT](#05--connect--联系我)
 
 </div>
 
 ---
 
-## 关于我
+## 01 / ABOUT · 关于我
 
 我关注 **AI、电商与自动化的结合**，探索从日常运营、数据处理到内容生产的工作流，也折腾 Docker、NAS 和自托管工具。
 
@@ -22,7 +22,7 @@
 
 希望把零散的工具连接起来，让流程更顺畅，让时间留给判断与创造。
 
-## 探索方向
+## 02 / EXPLORE · 探索方向
 
 | 方向 | 关注的具体问题 |
 | :--- | :--- |
@@ -32,7 +32,7 @@
 | **🐳 自托管部署** | Docker 容器、NAS 服务与 Homelab 工具链 |
 | **⚡ 效率工具** | 用脚本连接工具，减少重复操作与手动搬运 |
 
-## 工具箱
+## 03 / STACK · 工具箱
 
 **AI 与工作流**
 
@@ -49,14 +49,14 @@
 <img src="https://img.shields.io/badge/%F0%9F%90%AE%20%E9%A3%9E%E7%89%9B%20NAS-FF6A00?style=for-the-badge&amp;labelColor=161B22" alt="🐮 飞牛 NAS" />
 <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF-20A53E?style=for-the-badge&amp;labelColor=161B22" alt="🛡️ 宝塔面板" />
 
-## 贡献足迹
+## 04 / ACTIVITY · 贡献足迹
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liudali333/liudali333/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/liudali333/liudali333/output/github-snake-dark.svg" width="100%" alt="GitHub 贡献记录贪吃蛇动画" />
 </picture>
 
-## 联系我
+## 05 / CONNECT · 联系我
 
 欢迎交流 **电商自动化、AI Agent、ComfyUI 与 NAS 部署**。
 
