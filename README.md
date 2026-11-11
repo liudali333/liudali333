@@ -84,13 +84,22 @@
 
 我建了一个 **AI 交流学习群**，欢迎一起交流 AI 工具、Agent、ComfyUI 与自动化实践。
 
-**扫码添加我的微信，备注「github」，我拉你进群。** 相互学习，一起折腾。
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/wechat-qr.png" width="160" alt="Liu Dali 的微信联系二维码" />
+<table>
+<tr>
+<td align="center" width="50%">
+<strong>添加微信 · 备注「github」</strong><br/>
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/wechat-qr.png" width="180" alt="Daly个人微信二维码" />
+</td>
+<td align="center" width="50%">
+<strong>微信群二维码 · 扫码进群</strong><br/>
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/group-wechat-qr.png" width="180" alt="AI交流学习微信群二维码" />
+</td>
+</tr>
+</table>
 
-<sub>扫码加我 · 备注「github」</sub>
+<sub>欢迎加入，一起交流 AI、分享资源、共同学习。</sub>
 
 <br/><br/>
 
