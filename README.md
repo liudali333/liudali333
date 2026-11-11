@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/muse-tech-hero.svg" width="100%" alt="Liu Dali Personal Lab — Build smarter. Automate more." />
+<img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/muse-tech-hero.svg" width="100%" alt="Daly未下线个人主页横幅：少一点重复，多一点创造。" />
 
 ### AI × 电商 × 自动化
 
