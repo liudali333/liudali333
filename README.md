@@ -8,7 +8,7 @@
 
 电商运营 · AI Agent · 工作流自动化 · 自托管基础设施
 
-[ABOUT](#01--about--关于我) &nbsp; / &nbsp; [EXPLORE](#02--explore--探索方向) &nbsp; / &nbsp; [STACK](#03--stack--工具箱) &nbsp; / &nbsp; [SOCIAL](#04--social--内容与社交) &nbsp; / &nbsp; [AI 资源库](#06--ai-resource--ai-资源共享库) &nbsp; / &nbsp; [加我进群](#07--connect--加我进群)
+[ABOUT](#01--about--关于我) &nbsp; / &nbsp; [EXPLORE](#03--explore--探索方向) &nbsp; / &nbsp; [STACK](#04--stack--工具箱) &nbsp; / &nbsp; [SOCIAL](#05--social--内容与社交) &nbsp; / &nbsp; [AI 资源库](#02--ai-resource--ai-资源共享库) &nbsp; / &nbsp; [加我进群](#07--connect--加我进群)
 
 </div>
 
@@ -22,7 +22,21 @@
 
 希望把零散的工具连接起来，让流程更顺畅，让时间留给判断与创造。
 
-## 02 / EXPLORE · 探索方向
+## 06 / AI RESOURCE · AI 资源共享库
+
+我整理了一个面向 AI 爱好者的共享资源库，持续收集和更新平时发现的实用工具、GitHub 开源项目、模型内测、官方活动与激励、免费资源、学习教程和有趣玩法。
+
+这里不只是我的个人收藏，也欢迎大家一起补充。看到有价值的内容，可以提交资源名称、简单介绍、原始链接和相关截图，让好东西不再淹没在聊天记录里。
+
+<div align="center">
+
+### 📚 [打开 AI 折腾手册｜资源共享库](https://docs.qq.com/smartsheet/DS1VOeFpqSHVBUVJR?tab=ta2vju&viewId=vuPbcQ)
+
+<sub>AI 工具 · 开源项目 · 活动通知 · 免费资源 · 学习教程 · 共同维护</sub>
+
+</div>
+
+## 03 / EXPLORE · 探索方向
 
 | 方向 | 关注的具体问题 |
 | :--- | :--- |
@@ -32,11 +46,11 @@
 | **自托管部署** | Docker 容器、NAS 服务与 Homelab 工具链 |
 | **效率工具** | 用脚本连接工具，减少重复操作与手动搬运 |
 
-## 03 / STACK · 工具箱
+## 04 / STACK · 工具箱
 
 <img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/toolkit-animated.svg" width="100%" alt="工具箱：Codex、Hermes、OpenClaw、llama.cpp、n8n、ComfyUI、Docker、飞牛 NAS、宝塔面板" />
 
-## 04 / SOCIAL · 内容与社交
+## 05 / SOCIAL · 内容与社交
 
 ### Daly未下线
 
@@ -60,25 +74,11 @@
 
 </details>
 
-## 05 / ACTIVITY · 贡献足迹
+## 06 / ACTIVITY · 贡献足迹
 
 <img src="https://raw.githubusercontent.com/liudali333/liudali333/main/profile-3d-contrib/profile-night-green-loop.svg" width="100%" alt="Liu Dali 的等距 3D 贡献城市，建筑高度对应每日贡献记录" />
 
 <sub>每一天的积累，构成一座城市。每日自动更新。</sub>
-
-## 06 / AI RESOURCE · AI 资源共享库
-
-我整理了一个面向 AI 爱好者的共享资源库，持续收集和更新平时发现的实用工具、GitHub 开源项目、模型内测、官方活动与激励、免费资源、学习教程和有趣玩法。
-
-这里不只是我的个人收藏，也欢迎大家一起补充。看到有价值的内容，可以提交资源名称、简单介绍、原始链接和相关截图，让好东西不再淹没在聊天记录里。
-
-<div align="center">
-
-### 📚 [打开 AI 折腾手册｜资源共享库](https://docs.qq.com/smartsheet/DS1VOeFpqSHVBUVJR?tab=ta2vju&viewId=vuPbcQ)
-
-<sub>AI 工具 · 开源项目 · 活动通知 · 免费资源 · 学习教程 · 共同维护</sub>
-
-</div>
 
 ## 07 / CONNECT · 加我进群
 
