@@ -8,7 +8,7 @@
 
 电商运营 · AI Agent · 工作流自动化 · 自托管基础设施
 
-[ABOUT](#01--about--关于我) &nbsp; / &nbsp; [EXPLORE](#02--explore--探索方向) &nbsp; / &nbsp; [STACK](#03--stack--工具箱) &nbsp; / &nbsp; [SOCIAL](#04--social--内容与社交) &nbsp; / &nbsp; [加我进群](#06--connect--加我进群)
+[ABOUT](#01--about--关于我) &nbsp; / &nbsp; [EXPLORE](#02--explore--探索方向) &nbsp; / &nbsp; [STACK](#03--stack--工具箱) &nbsp; / &nbsp; [SOCIAL](#04--social--内容与社交) &nbsp; / &nbsp; [AI 资源库](#06--ai-resource--ai-资源共享库) &nbsp; / &nbsp; [加我进群](#07--connect--加我进群)
 
 </div>
 
@@ -66,7 +66,21 @@
 
 <sub>每一天的积累，构成一座城市。每日自动更新。</sub>
 
-## 06 / CONNECT · 加我进群
+## 06 / AI RESOURCE · AI 资源共享库
+
+我整理了一个面向 AI 爱好者的共享资源库，持续收集和更新平时发现的实用工具、GitHub 开源项目、模型内测、官方活动与激励、免费资源、学习教程和有趣玩法。
+
+这里不只是我的个人收藏，也欢迎大家一起补充。看到有价值的内容，可以提交资源名称、简单介绍、原始链接和相关截图，让好东西不再淹没在聊天记录里。
+
+<div align="center">
+
+### 📚 [打开 AI 折腾手册｜资源共享库](https://docs.qq.com/smartsheet/DS1VOeFpqSHVBUVJR?tab=ta2vju&viewId=vuPbcQ)
+
+<sub>AI 工具 · 开源项目 · 活动通知 · 免费资源 · 学习教程 · 共同维护</sub>
+
+</div>
+
+## 07 / CONNECT · 加我进群
 
 我建了一个 **AI 交流学习群**，欢迎一起交流 AI 工具、Agent、ComfyUI 与自动化实践。
 
