@@ -8,7 +8,7 @@
 
 电商运营 · AI Agent · 工作流自动化 · 自托管基础设施
 
-[ABOUT](#about) &nbsp; / &nbsp; [AI 资源库](#ai-resource) &nbsp; / &nbsp; [EXPLORE](#explore) &nbsp; / &nbsp; [STACK](#stack) &nbsp; / &nbsp; [SOCIAL](#social) &nbsp; / &nbsp; [ACTIVITY](#activity) &nbsp; / &nbsp; [加我进群](#connect)
+[关于我](#about) &nbsp; / &nbsp; [AI 资源库](#ai-resource) &nbsp; / &nbsp; [探索方向](#explore) &nbsp; / &nbsp; [工具箱](#stack) &nbsp; / &nbsp; [内容与社交](#social) &nbsp; / &nbsp; [贡献足迹](#activity) &nbsp; / &nbsp; [加我进群](#connect)
 
 </div>
 
