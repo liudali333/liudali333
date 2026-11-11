@@ -8,11 +8,13 @@
 
 电商运营 · AI Agent · 工作流自动化 · 自托管基础设施
 
-[ABOUT](#01--about--关于我) &nbsp; / &nbsp; [EXPLORE](#03--explore--探索方向) &nbsp; / &nbsp; [STACK](#04--stack--工具箱) &nbsp; / &nbsp; [SOCIAL](#05--social--内容与社交) &nbsp; / &nbsp; [AI 资源库](#02--ai-resource--ai-资源共享库) &nbsp; / &nbsp; [加我进群](#07--connect--加我进群)
+[ABOUT](#about) &nbsp; / &nbsp; [AI 资源库](#ai-resource) &nbsp; / &nbsp; [EXPLORE](#explore) &nbsp; / &nbsp; [STACK](#stack) &nbsp; / &nbsp; [SOCIAL](#social) &nbsp; / &nbsp; [ACTIVITY](#activity) &nbsp; / &nbsp; [加我进群](#connect)
 
 </div>
 
 ---
+
+<a name="about"></a>
 
 ## 01 / ABOUT · 关于我
 
@@ -21,6 +23,8 @@
 > 凡是值得做两次的事，就值得自动化。
 
 希望把零散的工具连接起来，让流程更顺畅，让时间留给判断与创造。
+
+<a name="ai-resource"></a>
 
 ## 02 / AI RESOURCE · AI 资源共享库
 
@@ -36,6 +40,8 @@
 
 </div>
 
+<a name="explore"></a>
+
 ## 03 / EXPLORE · 探索方向
 
 | 方向 | 关注的具体问题 |
@@ -46,9 +52,13 @@
 | **自托管部署** | Docker 容器、NAS 服务与 Homelab 工具链 |
 | **效率工具** | 用脚本连接工具，减少重复操作与手动搬运 |
 
+<a name="stack"></a>
+
 ## 04 / STACK · 工具箱
 
 <img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/toolkit-animated.svg" width="100%" alt="工具箱：Codex、Hermes、OpenClaw、llama.cpp、n8n、ComfyUI、Docker、飞牛 NAS、宝塔面板" />
+
+<a name="social"></a>
 
 ## 05 / SOCIAL · 内容与社交
 
@@ -74,11 +84,15 @@
 
 </details>
 
+<a name="activity"></a>
+
 ## 06 / ACTIVITY · 贡献足迹
 
 <img src="https://raw.githubusercontent.com/liudali333/liudali333/main/profile-3d-contrib/profile-night-green-loop.svg" width="100%" alt="Liu Dali 的等距 3D 贡献城市，建筑高度对应每日贡献记录" />
 
 <sub>每一天的积累，构成一座城市。每日自动更新。</sub>
+
+<a name="connect"></a>
 
 ## 07 / CONNECT · 加我进群
 
