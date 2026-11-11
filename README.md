@@ -34,7 +34,7 @@
 
 <div align="center">
 
-### 📚 [打开 AI 折腾手册｜资源共享库](https://docs.qq.com/smartsheet/DS1VOeFpqSHVBUVJR?tab=ta2vju&viewId=vuPbcQ)
+<a href="https://docs.qq.com/smartsheet/DS1VOeFpqSHVBUVJR?tab=ta2vju&amp;viewId=vuPbcQ"><img src="https://raw.githubusercontent.com/liudali333/liudali333/main/images/ai-resource-entry.svg" width="100%" alt="AI 折腾手册｜资源共享库，点击图片进入资源库" /></a>
 
 <sub>AI 工具 · 开源项目 · 活动通知 · 免费资源 · 学习教程 · 共同维护</sub>
 
